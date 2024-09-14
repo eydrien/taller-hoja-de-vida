@@ -21,4 +21,5 @@ body {
 /* Pseudoclase */
 a:hover {
     color: #e76f51;
+    text-decoration: none;
 }
