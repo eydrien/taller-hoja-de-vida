@@ -20,6 +20,8 @@ body {
 
 /* Pseudoclase */
 a:hover {
-    color: #e76f51;
+    background-color: #e76f51;
+    padding: 10px;
+    color: #f7f7f7;
     text-decoration: none;
 }
