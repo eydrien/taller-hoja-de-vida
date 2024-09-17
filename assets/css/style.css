@@ -1,10 +1,19 @@
 /* Selector por etiqueta */
 body {
     font-family: Arial, sans-serif;
-    background-color: #f0f0f0;
+    background-color: #d1eef5;
     margin: 20px;
 }
-
+/* titulo */
+.titulo{
+text-align: center;
+}
+/* borde del contenedor */
+.container{
+    border-style: dashed;
+    padding: 10px;
+    margin: 10px;
+}
 /* Selector por id */
 #nombre {
     color: #2a9d8f;
