@@ -11,8 +11,10 @@ text-align: center;
 /* borde del contenedor */
 .container{
     border-style: dashed;
-    padding: 10px;
-    margin: 10px;
+    padding: 30px;
+    margin: 20px;
+
+    height: auto;
 }
 /* Selector por id */
 #nombre {
@@ -34,3 +36,4 @@ a:hover {
     color: #f7f7f7;
     text-decoration: none;
 }
+
